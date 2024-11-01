@@ -5,10 +5,10 @@ Here's the updated README with the corrected SC-900 certification link:
 # Hello, I'm Bruno
 <a href="https://www.linkedin.com/in/bruno-moulheres/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent cybersecurity graduate with a passion for technology and dedication to tackling complex problems, especially in the field of cybersecurity.
+I am a recent cybersecurity graduate whose passion for technology is deeply rooted in a personal drive to protect others from cyber threats. Motivated by firsthand experience, I am dedicated to tackling complex challenges to safeguard systems and individuals in an ever-evolving digital landscape. 
 
 ## Objective
-My journey through computer science has led to a strong interest in cybersecurity. I am now focused on joining a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills to real-world challenges and grow within the field.
+After experiencing a significant financial cybercrime firsthand, I was driven to protect others from similar threats. This pivotal event ignited my passion for cybersecurity, and now, with a solid foundation and hands-on skills, I am committed to defending systems and individuals against emerging threats as a Security Operations Center (SOC) Analyst.
 
 ## Skills
 
