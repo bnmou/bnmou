@@ -14,12 +14,7 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 
 | Skill                                         | Associated Project               |
 |-----------------------------------------------|----------------------------------|
-| SIEM Implementation and Log Analysis          | [Detection Lab](https://github.com/YourProfile/DetectionLab)|
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://github.com/YourProfile/DetectionLab)|
-| Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://github.com/YourProfile/SOCAutomationLab)|
-| Incident Response Planning and Execution      | [SOC Automation Lab](https://github.com/YourProfile/SOCAutomationLab)|
-| Case Management with TheHive                  | [SOC Automation Lab](https://github.com/YourProfile/SOCAutomationLab)|
-| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](https://github.com/YourProfile/SOCAutomationLab)|
+| SOAR EDR Integration                          |(https://github.com/YourProfile/DetectionLab](https://github.com/bnmou/SOAR_EDR/tree/main)|
 
 ## Tools
 
