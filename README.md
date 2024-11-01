@@ -46,7 +46,7 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 </div>
 
 ## Projects
-- [Detection Lab](https://github.com/YourProfile/DetectionLab)
-- [SOC Automation Project](https://github.com/YourProfile/SOCAutomationLab)
+- [SOAR EDR Integration Lab](https://github.com/bnmou/SOAR_EDR/tree/main)
+
 
 ---
