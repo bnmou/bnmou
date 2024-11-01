@@ -1,4 +1,4 @@
-Here's your updated GitHub README with links included:
+Here's the updated README with the corrected SC-900 certification link:
 
 ---
 
@@ -45,11 +45,9 @@ My journey through computer science has led to a strong interest in cybersecurit
 
 ## Certifications
 <div>
-    <a href="http://verify.comptia.org/"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-    <a href="http://verify.comptia.org/"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-    <a href="http://verify.comptia.org/"><img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/9484fb98-9777-4951-9250-622ca7daf543"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-    <a href="https://www.credly.com/earner/earned/badge/346dbc50-f5b1-4424-8400-f33ad4d2eb6c"><img src="https://img.shields.io/badge/-SC900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/346dbc50-f5b1-4424-8400-f33ad4d2eb6c"><img src="https://img.shields.io/badge/-SC900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
 </div>
 
 ## Projects
