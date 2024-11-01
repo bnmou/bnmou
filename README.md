@@ -14,7 +14,7 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 
 | Skill                                         | Associated Project               |
 |-----------------------------------------------|----------------------------------|
-| SOAR EDR Integration                          |(https://github.com/YourProfile/DetectionLab](https://github.com/bnmou/SOAR_EDR/tree/main)|
+| SOAR EDR Integration                          |(https://github.com/bnmou/SOAR_EDR/tree/main)|
 
 ## Tools
 
