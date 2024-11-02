@@ -1,4 +1,3 @@
-Here's the updated README with the corrected SC-900 certification link:
 
 ---
 
