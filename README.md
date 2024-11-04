@@ -23,37 +23,37 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 
 ### Endpoint Security
 <div>
-    <a href="https://github.com/bnmou/SOAR_EDR/tree/main"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/-LimaCharlie-0072b1?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
+    <a href="https://www.credly.com/badges/346dbc50-f5b1-4424-8400-f33ad4d2eb6c"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
 </div>
 
 ### Cloud & SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <a href="https://www.credly.com/badges/346dbc50-f5b1-4424-8400-f33ad4d2eb6c"><img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/346dbc50-f5b1-4424-8400-f33ad4d2eb6c"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
 </div>
 
 ### Operating Systems & Scripting
 <div>
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" /></a>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" /></a>
 </div>
 
 ### Network Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
 </div>
 
 ### Virtualization
 <div>
-    <img src="https://img.shields.io/badge/-Oracle_VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+    <a href="https://github.com/bnmou/SOAR_EDR/tree/main"><img src="https://img.shields.io/badge/-Oracle_VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" /></a>
 </div>
 
 ### Communication & Collaboration
 <div>
-    <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" />
+    <a href="https://github.com/bnmou/SOAR_EDR/tree/main"><img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" /></a>
 </div>
+
 
 
 
