@@ -40,10 +40,21 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
     <img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
 </div>
 
+### Network Analysis
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-Oracle_VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
+
 ### Communication & Collaboration
 <div>
     <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" />
 </div>
+
 
 
 ## Certifications
