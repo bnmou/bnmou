@@ -15,25 +15,36 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 
 ## Tools
 
-### Network
+### SOAR & Automation
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <a href="https://github.com/bnmou/SOAR_EDR/tree/main"><img src="https://img.shields.io/badge/-Tines-0072b1?&style=for-the-badge&logo=Tines&logoColor=white" /></a>
+    <a href="https://github.com/bnmou/SOAR_EDR/tree/main"><img src="https://img.shields.io/badge/-LimaCharlie-4D4D4D?&style=for-the-badge&logo=LimaCharlie&logoColor=white" /></a>
 </div>
 
-### Endpoint
+### Endpoint Security
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <a href="https://github.com/bnmou/SOAR_EDR/tree/main"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/-LimaCharlie-0072b1?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
 </div>
 
-### SIEM
+### Cloud & SIEM
 <div>
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+
+### Operating Systems & Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+</div>
+
+### Communication & Collaboration
+<div>
+    <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" />
+</div>
+
 
 ## Certifications
 <div>
