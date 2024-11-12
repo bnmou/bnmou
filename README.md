@@ -12,7 +12,7 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 | Skill                                         | Associated Project               |
 |-----------------------------------------------|----------------------------------|
 | SOAR EDR Integration                          |(https://github.com/bnmou/SOAR_EDR/tree/main)|
-| Malware Analysis Lab                          |(https://github.com/bnmou/MalwareLab)|
+| Malware Analysis                              |(https://github.com/bnmou/MalwareLab)|
 
 ## Tools
 
