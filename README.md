@@ -45,6 +45,11 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
 </div>
 
+### Malware Analysis
+<div>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-FlareVM-8B0000?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
+</div>
+
 ### Virtualization
 <div>
     <a href="https://github.com/bnmou/SOAR_EDR/tree/main"><img src="https://img.shields.io/badge/-Oracle_VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" /></a>
