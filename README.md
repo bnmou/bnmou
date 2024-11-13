@@ -47,7 +47,7 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 
 ### Malware Analysis
 <div>
-    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-FlareVM-8B0000?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
+    <a href="https://github.com/bnmou/MalwareLab"><img src="https://img.shields.io/badge/-FlareVM-8B0000?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
 </div>
 
 ### Virtualization
