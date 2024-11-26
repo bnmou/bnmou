@@ -33,7 +33,13 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
     <a href="https://www.credly.com/badges/346dbc50-f5b1-4424-8400-f33ad4d2eb6c"><img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" /></a>
     <a href="https://www.credly.com/badges/346dbc50-f5b1-4424-8400-f33ad4d2eb6c"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
     <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
-    <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Active%20Directory-0078D4?style=for-the-badge&logo=Windows&logoColor=white" /></a>
+    <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Active%20Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+</div>
+
+### Offensive Security
+<div> 
+    <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" /></a>
+    <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Atomic%20Red%20Team-DD4A68?style=for-the-badge&logo=Hack-The-Box&logoColor=white" /></a>
 </div>
 
 ### Operating Systems & Scripting
