@@ -14,6 +14,7 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 | SOAR EDR Integration                          |(https://github.com/bnmou/SOAR_EDR/tree/main)|
 | Malware Analysis                              |(https://github.com/bnmou/MalwareLab)|
 | Active Directory, Splunk, Kali Linux, ATR     |(https://github.com/bnmou/ActiveDirectoryProject)| 
+| Honeypot Deployment                           |(https://github.com/bnmou/HoneyPotProject/tree/main)|
 
 ## Tools
 
@@ -83,5 +84,6 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 - [SOAR EDR Integration Lab](https://github.com/bnmou/SOAR_EDR/tree/main)
 - [Malware Analysis Lab](https://github.com/bnmou/MalwareLab)
 - [Active Directory Lab](https://github.com/bnmou/ActiveDirectoryProject)
+- [Honeypot Lab](https://github.com/bnmou/HoneyPotProject/tree/main) 
 
 ---
