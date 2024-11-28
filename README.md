@@ -37,10 +37,11 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
     <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Active%20Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
 </div>
 
-### Offensive Security
+### Offensive Security & Malware Analysis 
 <div> 
     <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" /></a>
     <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Atomic%20Red%20Team-DD4A68?style=for-the-badge&logo=Hack-The-Box&logoColor=white" /></a>
+    <a href="https://github.com/bnmou/MalwareLab"><img src="https://img.shields.io/badge/-FlareVM-8B0000?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
 </div>
 
 ### Operating Systems & Scripting
@@ -53,11 +54,6 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 ### Network Analysis
 <div>
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
-</div>
-
-### Malware Analysis
-<div>
-    <a href="https://github.com/bnmou/MalwareLab"><img src="https://img.shields.io/badge/-FlareVM-8B0000?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
 </div>
 
 ### Virtualization
