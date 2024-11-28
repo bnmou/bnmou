@@ -24,9 +24,10 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
     <a href="https://github.com/bnmou/SOAR_EDR/tree/main"><img src="https://img.shields.io/badge/-LimaCharlie-4D4D4D?&style=for-the-badge&logo=LimaCharlie&logoColor=white" /></a>
 </div>
 
-### Endpoint Security
+### Threat Detection & Endpoint Security
 <div>
     <a href="https://www.credly.com/badges/346dbc50-f5b1-4424-8400-f33ad4d2eb6c"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+    <a href="https://github.com/bnmou/HoneyPotProject/tree/main"><img src="https://img.shields.io/badge/-T--Pot-4D4D4D?&style=for-the-badge&logo=OpenSourceInitiative&logoColor=white" /></a>
 </div>
 
 ### Cloud, SIEM, & Active Directory
@@ -35,6 +36,7 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
     <a href="https://www.credly.com/badges/346dbc50-f5b1-4424-8400-f33ad4d2eb6c"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
     <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
     <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Active%20Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+    <a href="https://github.com/bnmou/HoneyPotProject/tree/main"><img src="https://img.shields.io/badge/-Vultr-007BFC?&style=for-the-badge&logo=Vultr&logoColor=white" /></a>
 </div>
 
 ### Offensive Security & Malware Analysis 
@@ -49,6 +51,7 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" /></a>
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" /></a>
+    <a href="https://github.com/bnmou/HoneyPotProject/tree/main"><img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" /></a>
 </div>
 
 ### Network Analysis
