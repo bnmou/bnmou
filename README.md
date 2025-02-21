@@ -15,6 +15,7 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 | Malware Analysis                              |(https://github.com/bnmou/MalwareLab)|
 | Active Directory, Splunk, Kali Linux, ATR     |(https://github.com/bnmou/ActiveDirectoryProject)| 
 | Honeypot Deployment                           |(https://github.com/bnmou/HoneyPotProject/tree/main)|
+| File Integrity Checker (Python)               |(https://github.com/bnmou/File-Integrity-Checker)|
 
 ## Tools
 
@@ -84,6 +85,7 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 - [SOAR EDR Integration Lab](https://github.com/bnmou/SOAR_EDR/tree/main)
 - [Malware Analysis Lab](https://github.com/bnmou/MalwareLab)
 - [Active Directory Lab](https://github.com/bnmou/ActiveDirectoryProject)
-- [Honeypot Lab](https://github.com/bnmou/HoneyPotProject/tree/main) 
+- [Honeypot Lab](https://github.com/bnmou/HoneyPotProject/tree/main)
+- [File Integrity Checker](https://github.com/bnmou/File-Integrity-Checker)
 
 ---
