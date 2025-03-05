@@ -16,6 +16,7 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 | Active Directory, Splunk, Kali Linux, ATR     |(https://github.com/bnmou/ActiveDirectoryProject)| 
 | Honeypot Deployment                           |(https://github.com/bnmou/HoneyPotProject/tree/main)|
 | File Integrity Checker (Python)               |(https://github.com/bnmou/File-Integrity-Checker)|
+| Microsoft Azure & Sentinel                    |(https://github.com/bnmou/Home-SOC-in-Azure)|
 
 ## Tools
 
@@ -33,8 +34,8 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 
 ### Cloud, SIEM, & Active Directory
 <div>
-    <a href="https://www.credly.com/badges/346dbc50-f5b1-4424-8400-f33ad4d2eb6c"><img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" /></a>
-    <a href="https://www.credly.com/badges/346dbc50-f5b1-4424-8400-f33ad4d2eb6c"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+    <a href="https://github.com/bnmou/Home-SOC-in-Azure"><img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" /></a>
+    <a href="https://github.com/bnmou/Home-SOC-in-Azure"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
     <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
     <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Active%20Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
     <a href="https://github.com/bnmou/HoneyPotProject/tree/main"><img src="https://img.shields.io/badge/-Vultr-007BFC?&style=for-the-badge&logo=Vultr&logoColor=white" /></a>
@@ -87,5 +88,6 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 - [Active Directory Lab](https://github.com/bnmou/ActiveDirectoryProject)
 - [Honeypot Lab](https://github.com/bnmou/HoneyPotProject/tree/main)
 - [File Integrity Checker](https://github.com/bnmou/File-Integrity-Checker)
+- [Home SOC in Azure](https://github.com/bnmou/Home-SOC-in-Azure)
 
 ---
