@@ -78,10 +78,13 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 ## Certifications
 <div>
     <a href="https://www.credly.com/badges/9484fb98-9777-4951-9250-622ca7daf543"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/7c2ff860-904a-459b-86ea-cc6a1d51ebfe"><img src="https://img.shields.io/badge/-CySA%2B-FF9900?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/3c3ade33-32eb-41ef-b31e-26e710c5e5f3"><img src="https://img.shields.io/badge/-CSAP-00CED1?&style=for-the-badge&logo=Cybersecurity&logoColor=white" /></a>
     <a href="https://www.credly.com/badges/01357c5e-4537-4613-b9f7-54f6832f464d"><img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-1E90FF?&style=for-the-badge&logo=Cybersecurity&logoColor=white" /></a>
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
     <a href="https://www.credly.com/badges/346dbc50-f5b1-4424-8400-f33ad4d2eb6c"><img src="https://img.shields.io/badge/-SC900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
 </div>
+
 
 ## Projects
 - [SOAR EDR Integration Lab](https://github.com/bnmou/SOAR_EDR/tree/main)
