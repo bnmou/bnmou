@@ -11,7 +11,7 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 
 | Simulation Environment                        | Home Lab                         |
 |-----------------------------------------------|----------------------------------|
-| Microsoft Azure                               |(https://github.com/bnmou/SOAR_EDR/tree/main)|
+| Microsoft Azure                               |([https://github.com/bnmou/SOAR_EDR/tree/main](https://github.com/bnmou/Azure-Enterprise-Simulation/blob/main/readme.md))|
 
 ## Skills
 
