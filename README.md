@@ -7,7 +7,7 @@ I am a driven cybersecurity student whose passion for technology is deeply roote
 ## Objective
 After experiencing a significant financial cybercrime firsthand, I was driven to protect others from similar threats. This pivotal event ignited my passion for cybersecurity, and now, with a solid foundation and hands-on skills, I am committed to defending systems and individuals against emerging threats as a Security Operations Center (SOC) Analyst.
 
-## Azure-based SOC Simluation (Enterprise Simulation)
+## Azure-based SOC Simulation (Enterprise Simulation)
 
 | Simulation Environment                        | Home Lab                         |
 |-----------------------------------------------|----------------------------------|
